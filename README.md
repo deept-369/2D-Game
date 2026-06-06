@@ -57,4 +57,4 @@ Players travel through different states, complete cultural quests, solve puzzles
 Add screenshots of your game here.
 
 ```markdown
-![Gameplay Screenshot](screenshots/gamess (1).jpeg)
+![Gameplay Screenshot](screenshots/gamess.jpeg)
